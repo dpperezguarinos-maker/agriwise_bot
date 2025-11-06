@@ -464,7 +464,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     text = (
         "*AgriWise Bot*\n"
-        "Tu asistente técnico de riego — calcula, registra y gestiona con criterio. Privado, claro y 100% bajo tu control.\n\n"
+        "Tu asistente técnico de riego — calcula, registra y gestiona con criterio. Privado, claro y 100% bajo tu control (Versión Beta: Los valores de ETo están ajustados a clima mediterráneo)\n\n"
         f"{consejo_del_dia()}"
     )
 
@@ -1854,3 +1854,4 @@ if __name__ == "__main__":
     app = build_app()
     print("AgriWise Bot arrancando…")
     app.run_polling()
+
