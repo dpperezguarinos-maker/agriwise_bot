@@ -1,1 +1,11 @@
-
+parameter,value,notes
+efficiency_drip_good,0.92,Goteo bien diseñado y mantenido (90–95%).
+efficiency_drip_avg,0.88,Goteo promedio.
+efficiency_sprinkler,0.80,Aspersión convencional.
+soil_factor_sandy,1.05,Suelos arenosos: mayor frecuencia / posible percolación.
+soil_factor_loam,1.00,Franco como referencia.
+soil_factor_clay,0.95,Arcillosos: reducir caudal y alargar turnos.
+cover_crop_active,1.10,Cubierta vegetal activa incrementa ETc.
+mulch_surface,0.95,Acolchado reduce evaporación del suelo.
+stress_reduction_mild,0.95,Déficit controlado leve.
+stress_reduction_moderate,0.90,Déficit controlado moderado
