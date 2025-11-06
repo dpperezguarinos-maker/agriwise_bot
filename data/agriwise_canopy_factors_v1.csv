@@ -1,1 +1,4 @@
-
+canopy_class,shade_pct_hint,f_copa,description
+joven,≤30,0.55,Copa pequeña / baja intercepción
+desarrollo,30–60,0.80,Crecimiento activo / cobertura media
+adulta,≥60,1.00,Cobertura alta / pleno desarrollo
