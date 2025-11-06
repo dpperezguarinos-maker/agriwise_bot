@@ -1,1 +1,25 @@
-
+crop,phase,start_month,end_month,kc_min,kc_max,kc_default,notes
+Almendro,Dormancia,Nov,Feb,0.15,0.30,0.20,Caducifolio. ET baja.
+Almendro,Brotación/Inicio,Mar,Abr,0.35,0.55,0.45,Cobertura foliar creciente.
+Almendro,Media estación,May,Ago,0.60,0.80,0.70,Pleno desarrollo.
+Almendro,Final estación,Sep,Oct,0.45,0.65,0.55,Maduración y senescencia.
+Olivo,Invierno,Dic,Feb,0.25,0.45,0.35,Siempreverde; actividad baja.
+Olivo,Primavera,Mar,May,0.45,0.65,0.55,Floración/cuajado.
+Olivo,Verano (media),Jun,Ago,0.55,0.75,0.65,Máxima demanda.
+Olivo,Otoño,Sep,Nov,0.45,0.65,0.55,Engorde/cosecha.
+Viña,Reposo,Dic,Feb,0.10,0.25,0.15,Parra sin hojas.
+Viña,Brote/Desarrollo,Mar,May,0.30,0.55,0.45,Hoja creciente.
+Viña,Media estación,Jun,Ago,0.55,0.75,0.60,Según conducción (espaldera ↑).
+Viña,Post-cosecha,Sep,Nov,0.35,0.55,0.45,Senescencia.
+Cítricos,Invierno,Dic,Feb,0.45,0.65,0.55,Siempreverde; demanda baja-moderada.
+Cítricos,Primavera,Mar,May,0.55,0.80,0.70,Floración/crec. vegetativo.
+Cítricos,Verano (media),Jun,Ago,0.65,0.85,0.75,Máxima demanda.
+Cítricos,Otoño,Sep,Nov,0.55,0.80,0.70,Engorde/cosecha.
+Pistacho,Reposo,Dic,Feb,0.15,0.30,0.20,Caducifolio.
+Pistacho,Brotación,Mar,Abr,0.35,0.55,0.45,Cobertura creciente.
+Pistacho,Media estación,May,Ago,0.55,0.75,0.65,Según carga/fructificación.
+Pistacho,Final estación,Sep,Nov,0.40,0.60,0.50,Senescencia/cosecha.
+Aguacate,Invierno,Dic,Feb,0.55,0.80,0.65,Siempreverde, sensible a frío.
+Aguacate,Primavera,Mar,May,0.70,0.95,0.80,Floración/crec. activo.
+Aguacate,Verano,Jun,Ago,0.80,1.05,0.90,Alta transpiración.
+Aguacate,Otoño,Sep,Nov,0.65,0.90,0.75,Engorde de fruto.
